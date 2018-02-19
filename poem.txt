@@ -4,6 +4,6 @@ REd
 Blue
 Pink
 Yellow
-Unicorn &&&&
+Unicorn
 
 pony $$$
