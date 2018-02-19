@@ -5,5 +5,4 @@ Blue
 Pink
 Yellow
 Unicorn
-
-pony $$$
+pony 
